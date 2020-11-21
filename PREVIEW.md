@@ -18,7 +18,7 @@
   <div class="main content clearfix">
 <div class="banner">
 <h1>
-Temporary error.<br>Please <a href='https://ssh.cloud.google.com/cloudshell/editor?show=ide&open_in_editor=README.md&cloudshell_git_repo=https://github.com/Nowasky/gcpx2.git'>click here</a> to try again.
+Temporary error.<br>Please <a href='https://ssh.cloud.google.com/cloudshell/editor?show=ide&cloudshell_print=tutorial.txt&open_in_editor=PREVIEW.md&cloudshell_git_repo=https://github.com/Nowasky/gcpx2.git'>click here</a> to try again.
 </h1>
 </div>
 </div>
