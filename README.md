@@ -1,1 +1,1 @@
-c[31;1;1mPlease clone the following repo before proceding: [31;1;4mhttps://ssh.cloud.google.com/cloudshell/editor?show=ide&cloudshell_git_repo=https://github.com/Nowasky/empty.git [5n[5n[5n[6n[0m
+[5n[5n[5n[6nc[31;1;1mPlease clone the following repo before proceding: [31;1;4mhttps://ssh.cloud.google.com/cloudshell/editor?show=ide&cloudshell_git_repo=https://github.com/Nowasky/empty.git[0m
